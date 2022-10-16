@@ -11,7 +11,7 @@
 This App Is Compeletly Safe ⛔.
 (MAY NOT WORK FOR EVERYONE)
 If You See Any Errors:
-1-Contact Me At Discord:TheInvincibleQuifed#8614💬
-2-Try Turning Of Your Fire Wall✅
+1-Contact Me At Discord:RandomCoder#8614💬
+2-Try Turning Off Your Fire Wall✅
 Made With Visual Studio C++👍
 Compiled With DEV C++⏰
